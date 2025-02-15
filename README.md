@@ -1,5 +1,5 @@
-BackTrack-Quest: README
-Project Overview
+BackTrack-Quest: 
+
 BackTrack-Quest is an interactive GUI application built using Python’s Tkinter library to visually present solutions to backtracking algorithms. It includes implementations for the N-Queens and Sum of Subsets problems, each of which can be executed through a user-friendly interface.
 
 1. Prerequisites
